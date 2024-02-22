@@ -1,2 +1,3 @@
 # Rasoiya-Website
-This website gets customers the best possible rasoiya or cook them and also it allows the chef to get suitable for them.
+This website gets customers the best possible rasoiya or cook for them and also it allows chefs to get suitable work for them.
+
